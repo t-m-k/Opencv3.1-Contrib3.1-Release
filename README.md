@@ -4,6 +4,6 @@ vs2015编译好的Opencv3.1+Contrib3.1+Release版本，包括x86和x64版本。
 
 不好意思，文件太大，上传不了，可以到我的csdn上下载。
 
-x64版本：https://download.csdn.net/download/tmk_01/10398051
+x64版本：https://download.csdn.net/download/tmk_01/10398071
 
-x86版本：https://download.csdn.net/download/tmk_01/10398071
+x86版本：https://download.csdn.net/download/tmk_01/10398051
